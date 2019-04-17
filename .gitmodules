@@ -1,0 +1,3 @@
+[submodule "cloaked-robot"]
+	path = cloaked-robot
+	url = https://github.com/dpalaniraja/cloaked-robot
